@@ -1,17 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
    <modelVersion>4.0.0</modelVersion>
 
    <groupId>shay.frog</groupId>
    <artifactId>test-test</artifactId>
-   <version>0.0.3-SNAPSHOT</version>
+   <version>0.0.4-SNAPSHOT</version>
    <packaging>jar</packaging>
 
    <name>test-test</name>
    <url>http://jfrog.com</url>
 
    <scm>
-      <connection></connection>
-      <developerConnection></developerConnection>
+      <connection />
+      <developerConnection />
      <tag>test-test-0.0.2</tag>
   </scm>
 
@@ -19,12 +20,12 @@
       <repository>
          <id>shay-test</id>
          <name>A B C D-releases</name>
-         <url></url>
+         <url />
       </repository>
       <snapshotRepository>
          <id>adi-snapshot</id>
          <name>A B C D-snapshots</name>
-         <url></url>
+         <url />
       </snapshotRepository>
    </distributionManagement>
 
