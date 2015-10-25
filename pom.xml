@@ -4,7 +4,7 @@
 
    <groupId>shay.frog</groupId>
    <artifactId>test-test</artifactId>
-   <version>0.0.6-SNAPSHOT</version>
+   <version>0.0.6</version>
    <packaging>jar</packaging>
 
    <name>test-test</name>
